@@ -1,2 +1,8 @@
-# Resume_Builder
-A dynamic Resume Builder that allows users to input details and generate a well-structured resume in real-time. Built with HTML, CSS, JavaScript, and React  with options to preview and download as PDF.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
